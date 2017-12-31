@@ -11,3 +11,10 @@ Les couleurs utilisées sont le bleu et le rouge "Aimée", représentant la temp
 ![Détail du calendrier](http://atelier.leparisien.fr/img/detail.png)
 
 ![Vue d'ensemble du calendrier](http://atelier.leparisien.fr/img/smallcalendar.jpg)
+
+## Où trouver les données bien formattées ?
+
+L'ensemble des données de l'ECAD se trouvent ici : [ecad.eu](www.ecad.eu/dailydata/customquery.php).
+
+## Pour les questions et remarques...
+Je suis sur [Twitter](www.twitter.com/humeursdevictor).
